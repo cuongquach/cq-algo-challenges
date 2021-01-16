@@ -13,3 +13,7 @@ Register one account on [Codeforces.com](https://codeforces.com/)
 \+ **242B**
 
 **Link**: [https://codeforces.com/problemset/problem/242/B](https://codeforces.com/problemset/problem/242/B)
+
+\+ **430B*
+
+**Link**: [https://codeforces.com/problemset/problem/430/B](https://codeforces.com/problemset/problem/430/B)
